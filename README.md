@@ -53,7 +53,7 @@ Scalability for Multi-Cloud Environments
 
 👨‍💻 Contributors
 
-Adula Neha
-Bandaru Hithesh
-Shirisha G
+Adula Neha , 
+Bandaru Hithesh , 
+Shirisha G , 
 Shreyas N
